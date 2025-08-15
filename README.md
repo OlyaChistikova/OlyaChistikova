@@ -19,5 +19,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
 ### Follow me
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)(https://t.me/liolika)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
