@@ -10,7 +10,7 @@
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
+![Selenide](https://img.shields.io/badge/Selenide-43B02A?logo=selenide&logoColor=Gray)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
