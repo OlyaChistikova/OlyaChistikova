@@ -23,7 +23,7 @@
 
 ## 🛠️ Инструменты и навыки
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
-![Selenide](https://custom-icon-badges.demolab.com/badge/selenide-4479A1)
+![Selenide](https://custom-icon-badges.demolab.com/badge/Selenide-4479A1=Selenide)
 ![TestNg](https://img.shields.io/badge/TestNG-CC2927)
 ![Allure](https://custom-icon-badges.demolab.com/badge/Allure-F24E1E?logo=logo-report-sign)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
@@ -36,6 +36,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+
 ## Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/liolika)
-
+[![Email](https://custom-icon-badges.demolab.com/badge/mail-F24E1E?logo=mail)](https://olya.chistikova@mail.ru)
