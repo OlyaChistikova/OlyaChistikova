@@ -23,7 +23,7 @@
 
 ## 🛠️ Инструменты и навыки
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
-![Selenide](https://img.shields.io/badge/Selenide-4479A1)
+![Selenide](https://custom-icon-badges.demolab.com/badge/Selenide-4479A1)
 ![TestNg](https://img.shields.io/badge/TestNG-CC2927)
 ![Allure](https://custom-icon-badges.demolab.com/badge/Allure-F24E1E?logo=logo-report-sign)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
