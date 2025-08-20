@@ -6,6 +6,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
 ![Selenide](https://img.shields.io/badge/Selenide-4479A1)
 ![TestNg](https://img.shields.io/badge/TestNG-CC2927)
+![Allure](https://img.shields.io/badge/Allure-F24E1E)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
