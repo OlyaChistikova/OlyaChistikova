@@ -2,7 +2,7 @@
 
 1) С помощью программы (например Xmind или любой другой ресурс для создания mind-карты), создайте mind-карту по тестированию 2 полей (на ваш выбор, но обязательно указать источник, либо взять форму ниже) применяя техники тест-дизайна эквивалентное разбиение и анализ граничных значений.
 
-!(https://github.com/OlyaChistikova/OlyaChistikova/blob/main/OlyaChistikova/asserts/unnamed.png)
+![Header](https://github.com/OlyaChistikova/OlyaChistikova/blob/main/OlyaChistikova/asserts/unnamed.png)
 
 Сайт, где размещена форма https://fincult.info/calc/loan/#amount. 
 2) Выберите одну из техник тест-дизайна из списка:
