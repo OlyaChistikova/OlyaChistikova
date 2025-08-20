@@ -28,6 +28,8 @@
 ![Allure](https://custom-icon-badges.demolab.com/badge/Allure-F24E1E?logo=logo-report-sign)
 ![TestNG](https://custom-icon-badges.demolab.com/badge/TestNG-CC2927?logo=testng-icon)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+![Soap UI](https://custom-icon-badges.demolab.com/badge/Soap_UI-F24E1E?logo=soap-ui)
+![Allure](https://custom-icon-badges.demolab.com/badge/Allure-F24E1E?logo=logo-report-sign)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
