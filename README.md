@@ -24,8 +24,8 @@
 ## 🛠️ Инструменты и навыки
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
 ![Selenide](https://custom-icon-badges.demolab.com/badge/Selenide-4479A1?logo=selenide-created)
-![TestNG](https://custom-icon-badges.demolab.com/badge/TestNG-CC2927?logo=Testng-icon)
 ![Allure](https://custom-icon-badges.demolab.com/badge/Allure-F24E1E?logo=logo-report-sign)
+![TestNG](https://custom-icon-badges.demolab.com/badge/TestNG-CC2927?logo=testng-icon)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
