@@ -1,5 +1,5 @@
 ## Ссылка на баг репорт: 
-https://docs.google.com/spreadsheets/d/12xwsy_2KbwjtlpygKoICvuM-lxrPbtwMLUQn5SrIUPs/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1beONOax9-DUi-gHDx0SFr1O6ibWlV4q9eCFAsjOCpMI/edit?usp=sharing
 
 ## Необходимо протестировать веб-версию банковского приложения Бэтта-банк. Ссылка https://test-mrn.astondevs.ru/
 
