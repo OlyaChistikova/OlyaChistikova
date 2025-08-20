@@ -9,3 +9,5 @@
 Дефекты необходимо предоставить в эксель таблице на русском языке.
 
 Кроссбраузерное и мобильное тестирование не выполнять.
+
+Баг репорт находиться по ссылке: https://docs.google.com/spreadsheets/d/12xwsy_2KbwjtlpygKoICvuM-lxrPbtwMLUQn5SrIUPs/edit?usp=sharing
